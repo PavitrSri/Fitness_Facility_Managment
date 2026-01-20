@@ -1,0 +1,28 @@
+.slider {
+  max-width: 750px;     
+  margin: 0 auto;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.slide-img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  border: 1px solid #e0e0e0; 
+}
+
+.slider-buttons {
+  margin-top: 10px;
+}
+
+.slider-buttons button {
+  margin: 0 8px;
+  padding: 6px 14px;
+  border: none;
+  background: #575656;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+

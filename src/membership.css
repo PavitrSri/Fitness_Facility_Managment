@@ -1,0 +1,82 @@
+.membership-container {
+  padding: 40px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.membership-title {
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: #222;
+}
+
+.membership-subtext {
+  text-align: center;
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.membership-card {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
+
+.plan-title {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.plan-price {
+  font-size: 24px;
+  color: #0a7cff;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.perks-list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+  font-size: 18px;
+  text-align: left;
+}
+
+.perks-list li {
+  margin: 10px 0;
+}
+
+.join-btn {
+  margin-top: 20px;
+  padding: 12px 25px;
+  font-size: 18px;
+  background: #0a7cff;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.join-btn:hover {
+  background: #005ec9;
+}
+
+.current-status {
+  margin-top: 20px;
+  font-size: 16px;
+  color: #333;
+}
+
+.member-confirmation {
+  margin-top: 15px;
+  color: green;
+  font-size: 18px;
+  font-weight: 600;
+}

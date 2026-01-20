@@ -1,0 +1,12 @@
+Eq ID,TypeID,Eq Name ,Eq Description,Is Booked
+1000,1,Basketball,Spalding NBA Official Game Ball,yes
+1001,2,Volleyball,Mikasa V200W competition-grade volleyball,no
+1002,2,Volleyball,Wilson AVP Replica Beach Volleyball ,yes
+1003,1,Basketball,Wilson Evolution Indoor Basketball,yes
+1004,3,Football,Nike Vapor 24/7 official-size football,no
+1005,3,Football,Wilson GST Composite Football,no
+1006,4,Tennis Racket,Wilson Pro Staff 97 ,yes
+1007,1,Basketball,Molten BG4500 indoor/outdoor basketball,no
+1008,3,Football,Under Armour 395 composite football,no
+1009,4,Tennis Racket,Babolat Pure Drive,yes
+1010,4,Tennis Racket,Head Graphene 360+ Speed MP racket,yes

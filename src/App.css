@@ -1,0 +1,50 @@
+/*Layout*/
+.App {
+  background-color: #585e5885;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+.container {
+  width: 100%;
+  max-width: 1100px;
+  margin: 30px auto;
+  padding: 20px;
+}
+
+.navbar {
+  width: 100%;
+  background: #ffffff6a;
+  padding: 10px 20px;     
+  border-bottom: 2px solid #eae7e76a;
+  display: flex;
+  justify-content: flex-start;    
+  align-items: center;
+  gap: 30px;                      
+}
+
+.nav-logo {
+  font-style: italic;
+  font-size: 26px;
+  font-weight: bold;
+  color: #222;
+}
+
+.nav-tabs {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.nav-tabs button {
+  padding: 12px 22px;
+  background: #f2f2f257;
+  border: 1px solid #cccccc60;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.nav-tabs button:hover {
+  background: #ddddddf7;
+}
+

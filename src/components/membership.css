@@ -1,0 +1,98 @@
+/*Main Membership Page*/
+
+.membership-container {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.membership-card {
+  width: 380px;
+  padding: 25px;
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.membership-card .title {
+  font-size: 26px;
+  margin-bottom: 18px;
+}
+
+.status {
+  font-size: 16px;
+  margin-bottom: 25px;
+}
+
+.enroll-btn {
+  padding: 12px 18px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  background: #2e89ff;
+  color: white;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.enroll-btn:disabled {
+  background: #a7c3ff;
+  cursor: not-allowed;
+}
+
+/*Sidebar*/
+
+.membership-sidebar {
+  position: fixed;
+  right: 20px;
+  top: 100px;
+  width: 260px;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.sidebar-btn {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background: #2e89ff;
+  color: white;
+  font-size: 15px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.perks-list {
+  padding-left: 20px;
+}
+.membership-layout {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  padding: 40px;
+}
+.membership-text {
+  max-width: 350px;
+}
+
+.membership-title {
+  font-size: 34px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.membership-subtext {
+  font-size: 17px;
+  color: #444;
+}
+.member-image {
+  width: 400px;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+}

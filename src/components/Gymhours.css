@@ -1,0 +1,80 @@
+.hours-container {
+  display: flex;
+  gap: 45px;
+  align-items: flex-start;
+  margin-top: 25px;
+}
+
+.hours-image img {
+  width: 400px;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.hours-content {
+  flex: 2;
+}
+
+.about-text {
+  font-size: 18px;
+  margin-bottom: 45px;
+  line-height: 1.5;
+  color: #070606;
+}
+
+.title {
+  font-size: 26px;
+  font-weight: 500; 
+  margin-bottom: 10px;
+}
+
+.hours {
+  margin-top: 10px;
+  background: #fafdfb74;
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: 1px solid #aaa1a174;
+  width: fit-content;
+}
+
+.hours ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+
+.hours li {
+  font-size: 17px;
+  margin-bottom: 8px;
+  color: #000000;
+}
+
+.holiday-toggle {
+  margin-top: 25px;
+  padding: 10px 0;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+  color: #333;
+  margin-left: 0;
+}
+
+.holiday-toggle:hover {
+  text-decoration: underline;
+}
+
+.holiday-list {
+  margin-top: 10px;
+  background: #fafdfb74;
+  padding: 15px 20px;
+  border-radius: 8px;
+  border: 1px solid #aaa1a174;
+  list-style: disc;
+  margin-left: 0;
+  padding-left: 40px;  
+}
+
+.holiday-list li {
+  margin-bottom: 8px;
+  font-size: 17px;
+}
