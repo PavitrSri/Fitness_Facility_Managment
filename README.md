@@ -2,7 +2,8 @@
 
 A full-stack web application for gym booking and membership management, developed as a collaborative software engineering project.
 
-**[Live Demo](https://fitness-facility-managment.vercel.app/)**  (takes a bit to load on the site)
+**Live Demo: (https://fitness-facility-managment.vercel.app/)**  (takes a bit to load on Vercel; doesnt have database running on vercel site)
+**Recorded Demo: https://youtu.be/GqoUV_epqHg** (Fully working app demo with working database)
 
 ---
 
