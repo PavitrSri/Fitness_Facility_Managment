@@ -39,20 +39,20 @@ SPOT Fitness is a comprehensive facility management system that enables gym memb
 
 ## Key Features
 
-✅ **Secure Authentication**
+ **Secure Authentication**
 - User registration and login with salted password hashing
 - Role-based access control (Member/Admin)
 
-✅ **Booking Management**
+ **Booking Management**
 - Real-time service availability checking
 - Dynamic booking forms with validation
 - Booking confirmation system
 
-✅ **Membership System**
+ **Membership System**
 - Member enrollment and profile management
 - Service subscription tracking
 
-✅ **Admin Dashboard**
+ **Admin Dashboard**
 - Can view all members and delete accounts
 
 ---
